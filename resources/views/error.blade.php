@@ -62,12 +62,7 @@
 		</div>
 
 
-		<div class="userProfile">
-			<h2>Contact info</h2>
-			<p>Email: cheungchakfung2010@yahoo.com.hk</p>
-
-
-		</div>
+		<h1>Error page, the page you requested are not found / invalid.</h1>
 
 
 

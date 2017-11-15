@@ -59,6 +59,7 @@ class LoginController extends Controller
                 return redirect('/');
             }
         }
+        return redirect('/loginRegis');
     }
 
     public function logoutReq(){

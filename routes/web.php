@@ -28,4 +28,4 @@ Route::post('/login', 'Auth\LoginController@processReq');
 Route::post('/register', 'Auth\RegisterController@processReq');
 Route::resource('/fileUpload', 'ImageController');
 
-Route::get('/{id?}', 'PageController@getIndex');
+Route::get('/{id?}', 'PageController@getPage');
