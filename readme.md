@@ -1,5 +1,4 @@
-This is the laravel version of project i made<br>
-original version in github: https://github.com/jeffcheung2015/website<br>
+Framework used: Laravel (PHP)
 
-free hosted website on 000webhostapp: https://websiteprojectmy.000webhostapp.com
+Free hosted website on 000webhostapp: https://websiteprojectmy.000webhostapp.com
 
